@@ -12,7 +12,7 @@ Anemia is a common blood disorder that can be detected through various diagnosti
 - **TensorFlow/Keras**: Libraries for building and training neural networks.
 - **Pandas**: Data manipulation and analysis.
 - **NumPy**: Numerical operations and matrix manipulations.
-- **OpenCV**: Image processing (if applicable).
+- **OpenCV**: Image processing.
 - **Scikit-learn**: Machine learning utilities and metrics.
 
 ## 📈 Features
